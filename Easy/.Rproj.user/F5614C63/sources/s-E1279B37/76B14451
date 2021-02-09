@@ -1,25 +1,25 @@
 {
     "id": "76B14451",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/shiva/Desktop/R_Gsoc_2021_tests/Easy/test1.r",
+    "project_path": "test1.r",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3400221342",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1612894786937.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "39,0",
-        "scrollLine": "18"
+        "cursorPosition": "25,17",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 31370622314377065,
-    "encoding": "",
+    "lastKnownWriteTime": 1612895081,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612894828414,
+    "last_content_update": 1612895081025,
     "read_only": false,
     "read_only_alternatives": []
 }
