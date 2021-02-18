@@ -1,0 +1,10 @@
+Package: legend.position
+Type: Package
+Title: Custom Legend Positioning method
+Version: 0.1.0
+Author: Shivam Prakash  
+Maintainer: Shivam Prakash <shivamprakashsp@gmail.com>
+Description: This package simplifies legend positioning in ggplot. Position the legend using simple keywords like 'top','bottom' etc.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
